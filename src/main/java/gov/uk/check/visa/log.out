@@ -1,0 +1,6 @@
+2024-06-24 17:06:648 INFO  DurationOfStayPage :24 - Clicking on duration : [[ChromeDriver: chrome on windows (b082df5f1993d251d9ea1e8a5daff7bc)] -> id: response-1]
+2024-06-24 17:06:831 INFO  DurationOfStayPage :29 - Clicking on continue Button : [[ChromeDriver: chrome on windows (b082df5f1993d251d9ea1e8a5daff7bc)] -> xpath: //button[normalize-space()='Continue']]
+2024-06-24 17:06:179 INFO  DurationOfStayPage :24 - Clicking on duration : [[ChromeDriver: chrome on windows (dc620779f3c74a0ba69ed8ba0dbbf8fb)] -> id: response-1]
+2024-06-24 17:06:284 INFO  DurationOfStayPage :29 - Clicking on continue Button : [[ChromeDriver: chrome on windows (dc620779f3c74a0ba69ed8ba0dbbf8fb)] -> xpath: //button[normalize-space()='Continue']]
+2024-06-25 17:06:854 INFO  DurationOfStayPage :24 - Clicking on duration : [[ChromeDriver: chrome on windows (15dfe62a9dfcec07619930322a98d836)] -> id: response-1]
+2024-06-25 17:06:167 INFO  DurationOfStayPage :29 - Clicking on continue Button : [[ChromeDriver: chrome on windows (15dfe62a9dfcec07619930322a98d836)] -> xpath: //button[normalize-space()='Continue']]
